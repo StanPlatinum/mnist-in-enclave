@@ -1,3 +1,9 @@
+## Disclaimer Notice
+
+This proj is not ready for use.
+
+### usage
+
 ```
 source /opt/intel/clang_sgx_sdk/sgxsdk/environment
 make
